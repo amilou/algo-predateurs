@@ -11,14 +11,14 @@
         }
     ],
     "authors": [
-         {
+        {
             "name": "Ben Abdallah, Hamdi",
             "role": "auteur",
             "comment": "version initiale en Java"
         },
         {
             "name": "Etienne, Benjamin",
-            "mail" : "benjamin.etienne00@gmail.com",
+            "mail": "benjamin.etienne00@gmail.com",
             "role": "auteur",
             "comment": "version HTLM5/JS"
         },
